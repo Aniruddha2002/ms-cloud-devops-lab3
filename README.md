@@ -1,8 +1,8 @@
 # Lab 3 — hello-app on Kubernetes with Terraform
 
-Name:
+Name: Acharya S Aniruddha Raghupathi
 
-Roll number:
+Roll number: 261100680005
 
 ## Part 1: first `terraform plan`
 
